@@ -1,6 +1,6 @@
-function somme(a, b) {
-    return a + b;
+function afficherMessage() {
+    return "Bonjour les étudiants !";
+    const message = ;
 }
 
-document.getElementById("resultat").textContent =
-    "La somme est : " + somme(10, 20);
+console.log(afficherMessage());
